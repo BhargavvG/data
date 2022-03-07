@@ -1,0 +1,214 @@
+[{
+  "_id": {
+    "$oid": "6197d7a973f23eb85148e214"
+  },
+  "categoryName": "Shoes",
+  "details": [],
+  "activeStatus": true,
+  "categoryId": 10000,
+  "__v": 0,
+  "sizeOptions": [
+    {
+      "size": "6",
+      "measurement": "Foot Length - 25.1cm"
+    },
+    {
+      "size": "7",
+      "measurement": "Foot Length - 25.1cm"
+    },
+    {
+      "size": "8",
+      "measurement": "Foot Length - 25.1cm"
+    },
+    {
+      "size": "9",
+      "measurement": "Foot Length - 25.1cm"
+    },
+    {
+      "size": "10",
+      "measurement": "Foot Length - 25.1cm"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6197d7bc73f23eb85148e217"
+  },
+  "categoryName": "Watches",
+  "details": [],
+  "activeStatus": true,
+  "categoryId": 10001,
+  "__v": 0,
+  "sizeOptions": [
+    {
+      "size": "S",
+      "measurement": "Wrist - 6in"
+    },
+    {
+      "size": "M",
+      "measurement": "Wrist - 6.5in"
+    },
+    {
+      "size": "L",
+      "measurement": "Wrist - 7in"
+    },
+    {
+      "size": "XL",
+      "measurement": "Wrist - 7.5in"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6197d7cd73f23eb85148e21a"
+  },
+  "categoryName": "Shirts",
+  "details": [],
+  "activeStatus": true,
+  "categoryId": 10002,
+  "__v": 0,
+  "sizeOptions": [
+    {
+      "size": "S",
+      "measurement": "Chest - 37.0in"
+    },
+    {
+      "size": "M",
+      "measurement": "Chest - 39.0in"
+    },
+    {
+      "size": "L",
+      "measurement": "Chest - 41.0in"
+    },
+    {
+      "size": "XL",
+      "measurement": "Chest - 43.0in"
+    },
+    {
+      "size": "XXL",
+      "measurement": "Chest - 45.5in"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6197d7d673f23eb85148e21d"
+  },
+  "categoryName": "T-Shirts",
+  "details": [],
+  "activeStatus": true,
+  "categoryId": 10003,
+  "__v": 0,
+  "sizeOptions": [
+    {
+      "size": "S",
+      "measurement": "Chest - 37.0in"
+    },
+    {
+      "size": "M",
+      "measurement": "Chest - 39.0in"
+    },
+    {
+      "size": "L",
+      "measurement": "Chest - 41.0in"
+    },
+    {
+      "size": "XL",
+      "measurement": "Chest - 43.0in"
+    },
+    {
+      "size": "XXL",
+      "measurement": "Chest - 45.5in"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6197d7f373f23eb85148e220"
+  },
+  "categoryName": "Jeans",
+  "details": [],
+  "activeStatus": true,
+  "categoryId": 10004,
+  "__v": 0,
+  "sizeOptions": [
+    {
+      "size": "28",
+      "measurement": "Waist Fit - 28in"
+    },
+    {
+      "size": "30",
+      "measurement": "Waist Fit - 30in"
+    },
+    {
+      "size": "32",
+      "measurement": "Waist Fit - 32in"
+    },
+    {
+      "size": "34",
+      "measurement": "Waist Fit - 34in"
+    },
+    {
+      "size": "36",
+      "measurement": "Waist Fit - 36in"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6197d7fe73f23eb85148e223"
+  },
+  "categoryName": "Nightwear",
+  "details": [],
+  "activeStatus": true,
+  "categoryId": 10005,
+  "__v": 0,
+  "sizeOptions": [
+    {
+      "size": "S",
+      "measurement": "Chest - 37.0in"
+    },
+    {
+      "size": "M",
+      "measurement": "Chest - 39.0in"
+    },
+    {
+      "size": "L",
+      "measurement": "Chest - 41.0in"
+    },
+    {
+      "size": "XL",
+      "measurement": "Chest - 43.0in"
+    },
+    {
+      "size": "XXL",
+      "measurement": "Chest - 45.5in"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61a095cd223bed087712babb"
+  },
+  "categoryName": "SweatShirt",
+  "details": [],
+  "activeStatus": true,
+  "categoryId": 10006,
+  "__v": 0,
+  "sizeOptions": [
+    {
+      "size": "S",
+      "measurement": "Chest - 37.0in"
+    },
+    {
+      "size": "M",
+      "measurement": "Chest - 39.0in"
+    },
+    {
+      "size": "L",
+      "measurement": "Chest - 41.0in"
+    },
+    {
+      "size": "XL",
+      "measurement": "Chest - 43.0in"
+    },
+    {
+      "size": "XXL",
+      "measurement": "Chest - 45.5in"
+    }
+  ]
+}]

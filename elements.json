@@ -1,0 +1,921 @@
+[{
+  "_id": {
+    "$oid": "619901b007624842524e9c6b"
+  },
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "category",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/biggest_festive_offer.webp",
+  "content": [
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/festive_offer_1.webp",
+      "brand": [],
+      "category": [],
+      "subCategory": [],
+      "_id": {
+        "$oid": "619901b007624842524e9c6c"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/festive_offer_2.webp",
+      "brand": [],
+      "category": [
+        {
+          "categoryId": 10002,
+          "categoryName": "Shirts",
+          "_id": {
+            "$oid": "6197d7cd73f23eb85148e21a"
+          }
+        }
+      ],
+      "subCategory": [],
+      "_id": {
+        "$oid": "619901b007624842524e9c6d"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/festive_offer_3.webp",
+      "brand": [],
+      "category": [],
+      "subCategory": [],
+      "_id": {
+        "$oid": "619901b007624842524e9c6e"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/festive_offer_4.webp",
+      "brand": [],
+      "category": [],
+      "subCategory": [],
+      "_id": {
+        "$oid": "619901b007624842524e9c6f"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/festive_offer_5.webp",
+      "brand": [],
+      "category": [],
+      "subCategory": [],
+      "_id": {
+        "$oid": "619901b007624842524e9c70"
+      }
+    }
+  ],
+  "activeStatus": true,
+  "elementId": 100,
+  "__v": 0,
+  "precedence": 11,
+  "elementName": "Biggest Festive Offers"
+},{
+  "_id": {
+    "$oid": "619b460c488bc5adc1399d79"
+  },
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "category",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/biggest_discount_categories.webp",
+  "content": [
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/discount_category_1.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b460c488bc5adc1399d7a"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/discount_category_2.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b460c488bc5adc1399d7b"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/discount_category_3.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b460c488bc5adc1399d7c"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/discount_category_4.jpg",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b460c488bc5adc1399d7d"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/discount_category_5.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b460c488bc5adc1399d7e"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/discount_category_6.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b460c488bc5adc1399d7f"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/discount_category_7.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b460c488bc5adc1399d80"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/discount_category_8.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b460c488bc5adc1399d81"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/discount_category_9.jpg",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b460c488bc5adc1399d82"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/discount_category_10.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b460c488bc5adc1399d83"
+      }
+    }
+  ],
+  "activeStatus": true,
+  "elementId": 101,
+  "__v": 0,
+  "precedence": 12,
+  "elementName": "Biggest Discounts on Categories"
+},{
+  "_id": {
+    "$oid": "619b469d488bc5adc1399d86"
+  },
+  "offer": 1000,
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "category",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_offer_brands.webp",
+  "content": [
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_offer_brand_1.webp",
+      "brand": [
+        {
+          "brandId": 14,
+          "brandName": "US Polo Assn",
+          "_id": {
+            "$oid": "619a894b63a9aae977861a6b"
+          }
+        }
+      ],
+      "category": [],
+      "subCategory": [],
+      "_id": {
+        "$oid": "619b469d488bc5adc1399d87"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_offer_brand_2.webp",
+      "brand": [],
+      "category": [],
+      "subCategory": [],
+      "_id": {
+        "$oid": "619b469d488bc5adc1399d88"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_offer_brand_3.webp",
+      "brand": [
+        {
+          "brandId": 10,
+          "brandName": "Vero Moda",
+          "_id": {
+            "$oid": "619a889f63a9aae977861a5f"
+          }
+        }
+      ],
+      "category": [],
+      "subCategory": [],
+      "_id": {
+        "$oid": "619b469d488bc5adc1399d89"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_offer_brand_4.webp",
+      "brand": [
+        {
+          "brandId": 17,
+          "brandName": "Levi's",
+          "_id": {
+            "$oid": "619a898563a9aae977861a74"
+          }
+        }
+      ],
+      "category": [],
+      "subCategory": [],
+      "_id": {
+        "$oid": "619b469d488bc5adc1399d8a"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_offer_brand_5.webp",
+      "brand": [],
+      "category": [],
+      "subCategory": [],
+      "_id": {
+        "$oid": "619b469d488bc5adc1399d8b"
+      }
+    }
+  ],
+  "activeStatus": true,
+  "elementId": 102,
+  "__v": 0,
+  "precedence": 13,
+  "elementName": "Top Offers on Brands"
+},{
+  "_id": {
+    "$oid": "619b46d1488bc5adc1399d8e"
+  },
+  "offer": 1000,
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "category",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands.webp",
+  "content": [
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands_1.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46d1488bc5adc1399d8f"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands_2.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46d1488bc5adc1399d90"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands_3.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46d1488bc5adc1399d91"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands_4.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46d1488bc5adc1399d92"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands_5.jpg",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46d1488bc5adc1399d93"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands_6.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46d1488bc5adc1399d94"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands_7.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46d1488bc5adc1399d95"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands_8.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46d1488bc5adc1399d96"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands_9.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46d1488bc5adc1399d97"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_brands_10.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46d1488bc5adc1399d98"
+      }
+    }
+  ],
+  "activeStatus": true,
+  "elementId": 103,
+  "__v": 0,
+  "precedence": 14,
+  "elementName": "Best of Brands"
+},{
+  "_id": {
+    "$oid": "619b46f4488bc5adc1399d9b"
+  },
+  "offer": 1000,
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "category",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_innerwear.webp",
+  "content": [
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_innerwear_1.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46f4488bc5adc1399d9c"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_innerwear_2.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46f4488bc5adc1399d9d"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_innerwear_3.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46f4488bc5adc1399d9e"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_innerwear_4.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b46f4488bc5adc1399d9f"
+      }
+    }
+  ],
+  "activeStatus": true,
+  "elementId": 104,
+  "__v": 0,
+  "precedence": 15,
+  "elementName": "Best of Innerwear and Loungewear"
+},{
+  "_id": {
+    "$oid": "619b47df488bc5adc1399da2"
+  },
+  "offer": 1000,
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "category",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_kidswear.webp",
+  "content": [
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_kidswear_1.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b47df488bc5adc1399da3"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_kidswear_2.png",
+      "brand": [
+        {
+          "_id": "619a881a63a9aae977861a47",
+          "brandName": "Puma",
+          "details": [],
+          "activeStatus": true,
+          "brandId": 2,
+          "__v": 0
+        }
+      ],
+      "category": [
+        {
+          "sizeOptions": [],
+          "_id": "6197d7a973f23eb85148e214",
+          "categoryName": "Shoes",
+          "details": [],
+          "activeStatus": true,
+          "categoryId": 10000,
+          "__v": 0
+        }
+      ],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b47df488bc5adc1399da4"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_kidswear_3.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b47df488bc5adc1399da5"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_kidswear_4.png",
+      "brand": [
+        {
+          "_id": "619a7293f66e55ad578389f0",
+          "brandName": "Nike",
+          "details": [],
+          "activeStatus": true,
+          "brandId": 1,
+          "__v": 0
+        },
+        {
+          "_id": "619a881a63a9aae977861a47",
+          "brandName": "Puma",
+          "details": [],
+          "activeStatus": true,
+          "brandId": 2,
+          "__v": 0
+        }
+      ],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b47df488bc5adc1399da6"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_kidswear_5.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b47df488bc5adc1399da7"
+      }
+    }
+  ],
+  "activeStatus": true,
+  "elementId": 105,
+  "__v": 0,
+  "precedence": 16,
+  "elementName": "Best of Kidswear"
+},{
+  "_id": {
+    "$oid": "619b4807488bc5adc1399daa"
+  },
+  "offer": 1000,
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "category",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_beauty.webp",
+  "content": [
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_beauty_1.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b4807488bc5adc1399dab"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_beauty_2.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b4807488bc5adc1399dac"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_beauty_3.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b4807488bc5adc1399dad"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_beauty_4.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b4807488bc5adc1399dae"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/best_of_beauty_5.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b4807488bc5adc1399daf"
+      }
+    }
+  ],
+  "activeStatus": true,
+  "elementId": 106,
+  "__v": 0,
+  "precedence": 17,
+  "elementName": "Best of Beauty and personal care"
+},{
+  "_id": {
+    "$oid": "619b7cda9aacf82d9ab477b6"
+  },
+  "offer": 1000,
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "carousel",
+  "content": [
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/icici_offer.webp",
+      "brand": [
+        {
+          "_id": "619a7293f66e55ad578389f0",
+          "brandName": "Nike",
+          "details": [],
+          "activeStatus": true,
+          "brandId": 1,
+          "__v": 0
+        },
+        {
+          "_id": "619a881a63a9aae977861a47",
+          "brandName": "Puma",
+          "details": [],
+          "activeStatus": true,
+          "brandId": 2,
+          "__v": 0
+        },
+        {
+          "_id": "619a882663a9aae977861a4a",
+          "brandName": "Tommy Hilfiger",
+          "details": [],
+          "activeStatus": true,
+          "brandId": 3,
+          "__v": 0
+        }
+      ],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7cda9aacf82d9ab477b7"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/kotak_offer.jpg",
+      "brand": [
+        {
+          "_id": "619a7293f66e55ad578389f0",
+          "brandName": "Nike",
+          "details": [],
+          "activeStatus": true,
+          "brandId": 1,
+          "__v": 0
+        },
+        {
+          "_id": "619a881a63a9aae977861a47",
+          "brandName": "Puma",
+          "details": [],
+          "activeStatus": true,
+          "brandId": 2,
+          "__v": 0
+        }
+      ],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7cda9aacf82d9ab477b8"
+      }
+    }
+  ],
+  "activeStatus": true,
+  "elementId": 107,
+  "__v": 0,
+  "precedence": 7,
+  "elementName": "Bank Offers"
+},{
+  "_id": {
+    "$oid": "619b7d1a9aacf82d9ab477c2"
+  },
+  "offer": 1000,
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "banner",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/free_shipping.webp",
+  "activeStatus": false,
+  "content": [],
+  "elementId": 108,
+  "__v": 0,
+  "precedence": 2,
+  "elementName": "Free Shipping"
+},{
+  "_id": {
+    "$oid": "619b7d279aacf82d9ab477c5"
+  },
+  "offer": 1000,
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-10-17T18:30:00Z"
+  },
+  "elementType": "banner",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/offer.png",
+  "activeStatus": true,
+  "content": [],
+  "elementId": 109,
+  "__v": 0,
+  "precedence": 3,
+  "elementName": "Fashion Festival"
+},{
+  "_id": {
+    "$oid": "619b7d569aacf82d9ab477c8"
+  },
+  "offer": 1000,
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "category",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_styles_for_you.webp",
+  "content": [
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_style_1.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7d569aacf82d9ab477c9"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_style_2.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7d569aacf82d9ab477ca"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_style_3.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7d569aacf82d9ab477cb"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_style_4.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7d569aacf82d9ab477cc"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_style_5.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7d569aacf82d9ab477cd"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_style_6.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7d569aacf82d9ab477ce"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_style_7.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7d569aacf82d9ab477cf"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_style_8.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7d569aacf82d9ab477d0"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_style_9.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7d569aacf82d9ab477d1"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/top_style_10.png",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "619b7d569aacf82d9ab477d2"
+      }
+    }
+  ],
+  "activeStatus": true,
+  "elementId": 110,
+  "__v": 0,
+  "precedence": 18,
+  "elementName": "Top Styles for you"
+},{
+  "_id": {
+    "$oid": "61de9452924e3f680f276ea3"
+  },
+  "offer": 1000,
+  "startDate": {
+    "$date": "2021-10-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2022-10-17T18:30:00Z"
+  },
+  "elementType": "carousel",
+  "content": [
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/carousel1_qD4cgmXKm.jpg",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "61fec40b452c137eed433a00"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/carousel2_dL7cn7d9j.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "61fec40b452c137eed433a01"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/carousel3_Byy9UIW9DbK.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "61fec40b452c137eed433a02"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/carousel4_jckm6qANA.jpg",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "61fec40b452c137eed433a03"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/carousel5_8ZF2kSz7g.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "61fec40b452c137eed433a04"
+      }
+    },
+    {
+      "img": "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/img/carousel6_6GgdVaxbW0A.webp",
+      "brand": [],
+      "category": [],
+      "subcategory": [],
+      "_id": {
+        "$oid": "61fec40b452c137eed433a05"
+      }
+    }
+  ],
+  "activeStatus": true,
+  "elementId": 111,
+  "__v": 0,
+  "precedence": 5,
+  "elementName": "Event Slider "
+},{
+  "_id": {
+    "$oid": "620cb32bbd71dc0953010dfb"
+  },
+  "elementName": "Banner Sale is live",
+  "startDate": {
+    "$date": "2022-02-15T00:00:00Z"
+  },
+  "endDate": {
+    "$date": "2022-05-17T00:00:00Z"
+  },
+  "elementType": "banner",
+  "titleImg": "https://ik.imagekit.io/2e5xfxvehcg/abc_S-gi4A37H.jpg",
+  "precedence": 1,
+  "activeStatus": false,
+  "content": [],
+  "elementId": 113,
+  "__v": 0
+}]

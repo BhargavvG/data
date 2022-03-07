@@ -1,0 +1,2595 @@
+[{
+  "_id": {
+    "$oid": "619a8dc7eb32868c7c008473"
+  },
+  "productName": "Printed Pure Cotton T-shirt",
+  "category": 10003,
+  "offer": 1000,
+  "brand": 15,
+  "actualPrice": 1999,
+  "offeredPrice": 1499,
+  "seller": "Seller1",
+  "stock": 2496,
+  "activeStatus": true,
+  "productId": 21,
+  "__v": 0,
+  "subCategory": 502,
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1__1__6ZzDcHi-x.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/ee026dfd-53d5-431f-8f49-793d1b1a3ca91579692118057-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-3_t_a16N3XMXS.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/5a6da9ac-d32e-4710-9b6d-569b454560931579692118120-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-2_7tLJyJoh2I.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/630076d1-bddd-4bd8-825a-f53a545c38481579692117944-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-4_pHfqsKxTOC8N.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/3d7fa82a-871c-43f9-8aa4-b01fbc77e2921579692117728-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-6_VJk8r2Hjv.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/d9ac560a-bf76-4ada-b37f-18aa520545821579692117859-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-5_BmM4RqwZL.webp"
+  ],
+  "description": "This season set a sporty fashion trend with the HRX Men's Athleisure T-shirt. This striped casual T-shirt can be worn on its own or layered under a jacket or a hoodie.",
+  "features": [
+    "Athleisure T-shirt can be paired with tracks, khakis or jeans",
+    "Style: Round Neck",
+    "Sleeve: Short Sleeves",
+    "Colour: Teal",
+    "Print: Geometric",
+    "Fit: Regular"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 106,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd7604"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 1,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd7605"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd7606"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd7607"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd7608"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Pure Cotton",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd75fc"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd75fd"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd75fe"
+      }
+    },
+    {
+      "title": "Main Trend",
+      "value": "Geometric Print",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd75ff"
+      }
+    },
+    {
+      "title": "Multipack Set",
+      "value": "Single",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd7600"
+      }
+    },
+    {
+      "title": "Neck",
+      "value": "Round Neck",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd7601"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd7602"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Printed",
+      "_id": {
+        "$oid": "62035f8eb7f0939afafd7603"
+      }
+    }
+  ],
+  "gender": "Men"
+},{
+  "_id": {
+    "$oid": "619a8e7eeb32868c7c00847c"
+  },
+  "productName": "Men White & Navy Blue Slim Fit Opaque Striped Casual Shirtt",
+  "category": 10002,
+  "offer": 1000,
+  "brand": 3,
+  "actualPrice": 1999,
+  "offeredPrice": 1899,
+  "seller": "Seller1",
+  "stock": 3999,
+  "activeStatus": true,
+  "productId": 3,
+  "__v": 0,
+  "subCategory": 505,
+  "description": "White & Navy Blue vertical striped opaque casual shirt ,has a spread collar, button placket, long regular sleeves, curved hem",
+  "features": [
+    "98% Organic Cotton & 2% Elastane ",
+    "Sleeve: Long Sleeves",
+    " Weave Pattern Oxford",
+    "Fit: Regular"
+  ],
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/8e7feae8-377e-4e90-aeb2-50ca62c332f21632820647584-Tommy-Hilfiger-Men-Shirts-8701632820646922-1_Gyf3fPWvy.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/51d44f2e-0be5-44b0-ab6d-a90cd0e3ee891632820647539-Tommy-Hilfiger-Men-Shirts-8701632820646922-6_tq4nuwNh7.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/589881c3-2bb6-4630-9506-a5b9ed399dec1632820647556-Tommy-Hilfiger-Men-Shirts-8701632820646922-4_SdZdIg7z3.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/42168829-2473-451c-9147-3ad9cd5f40bf1632820647574-Tommy-Hilfiger-Men-Shirts-8701632820646922-2_hoSydsjIR.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/ce39b46d-e881-4d50-bb17-42108e9c1fb61632820647564-Tommy-Hilfiger-Men-Shirts-8701632820646922-3_rxXH81stKkk.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/7deb707a-7a1c-470e-87ae-8072b793ff721632820647547-Tommy-Hilfiger-Men-Shirts-8701632820646922-5_BgvsOQUK0s3.webp"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 100,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd7664"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd7665"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd7666"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd7667"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd7668"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Pure Cotton",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd765d"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd765e"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd765f"
+      }
+    },
+    {
+      "title": "Main Trend",
+      "value": "Vertical Stripes",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd7660"
+      }
+    },
+    {
+      "title": "Multipack Set",
+      "value": "Single",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd7661"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd7662"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Stripes",
+      "_id": {
+        "$oid": "620366a7b7f0939afafd7663"
+      }
+    }
+  ],
+  "gender": "Men"
+},{
+  "_id": {
+    "$oid": "619a8eabeb32868c7c00847f"
+  },
+  "productName": "Men White Slim Fit Printed Pure Cotton Casual Shirt",
+  "category": 10002,
+  "offer": 1000,
+  "brand": 11,
+  "actualPrice": 1999,
+  "offeredPrice": 1899,
+  "seller": "Seller1",
+  "stock": 4000,
+  "activeStatus": true,
+  "productId": 4,
+  "__v": 0,
+  "subCategory": 505,
+  "description": "White conversational printed casual shirt, has a cutaway collar, button placket, long roll-up sleeves, curved hem",
+  "features": [
+    "100% Cotton & Machine Wash ",
+    "Sleeve: Long Sleeves",
+    " Weave Pattern Oxford",
+    "Fit: Regular"
+  ],
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/AllenSolly6_1N5F0YTGF0.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/AllenSolly5_YOtTT4TX9.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/AllenSolly4_59MnifVaB.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/AllenSolly3__hC6vswg8.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/AllenSolly2_flRFBAg0Dso.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/AllenSolly_fg08tzOZK.webp"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 99,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "62036970b7f0939afafd767c"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "62036970b7f0939afafd767d"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "62036970b7f0939afafd767e"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "62036970b7f0939afafd767f"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "62036970b7f0939afafd7680"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Pure Cotton",
+      "_id": {
+        "$oid": "62036970b7f0939afafd7674"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "62036970b7f0939afafd7675"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "62036970b7f0939afafd7676"
+      }
+    },
+    {
+      "title": "Main Trend",
+      "value": "Vertical Stripes",
+      "_id": {
+        "$oid": "62036970b7f0939afafd7677"
+      }
+    },
+    {
+      "title": "Hemline",
+      "value": "Curved",
+      "_id": {
+        "$oid": "62036970b7f0939afafd7678"
+      }
+    },
+    {
+      "title": "Collar",
+      "value": "Cutaway Collar",
+      "_id": {
+        "$oid": "62036970b7f0939afafd7679"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Formal",
+      "_id": {
+        "$oid": "62036970b7f0939afafd767a"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Conversational",
+      "_id": {
+        "$oid": "62036970b7f0939afafd767b"
+      }
+    }
+  ],
+  "gender": "Men"
+},{
+  "_id": {
+    "$oid": "619a8ec1eb32868c7c008482"
+  },
+  "productName": "Men & White Blue Slim Fit Cotton Checked Casual Shirt",
+  "category": 10002,
+  "offer": 1000,
+  "brand": 12,
+  "actualPrice": 4200,
+  "offeredPrice": 3850,
+  "seller": "Seller1",
+  "stock": 4000,
+  "activeStatus": true,
+  "productId": 5,
+  "__v": 0,
+  "subCategory": 503,
+  "description": "Blue and white tartan checked opaque Casual shirt ,has a button-down collar, button placket, 1 patch pocket, long regular sleeves, curved hem",
+  "features": [
+    "100% Cotton & Machine Wash ",
+    "Sleeve: Long Sleeves",
+    " Weave Pattern Oxford",
+    "Fit: Regular"
+  ],
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Peter_England_GABQFA4QE5.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Peter_England2_fTndoH_kV.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Peter_England3_W9hIsV2Sc8.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Peter_England4_KwqbFtyktNA.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Peter_England5__WyrmdTYc.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Peter_England6_IJZJEIsxIQg4.webp"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 99,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd7694"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd7695"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd7696"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd7697"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd7698"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Pure Cotton",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd768c"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd768d"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd768e"
+      }
+    },
+    {
+      "title": "Main Trend",
+      "value": "Vertical Stripes",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd768f"
+      }
+    },
+    {
+      "title": "Hemline",
+      "value": "Curved",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd7690"
+      }
+    },
+    {
+      "title": "Collar",
+      "value": "Cutaway Collar",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd7691"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Formal",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd7692"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Tartan Checks",
+      "_id": {
+        "$oid": "62036d8db7f0939afafd7693"
+      }
+    }
+  ],
+  "gender": "Men"
+},{
+  "_id": {
+    "$oid": "619a8ee9eb32868c7c008485"
+  },
+  "productName": "Men Charcoal Grey T-shirt with Printed Detailing",
+  "category": 10003,
+  "offer": 1000,
+  "brand": 9,
+  "actualPrice": 1000,
+  "offeredPrice": 799,
+  "seller": "Seller1",
+  "stock": 4000,
+  "activeStatus": true,
+  "productId": 6,
+  "__v": 0,
+  "subCategory": 502,
+  "description": "Blue and white tartan checked opaque Casual shirt ,has a button-down collar, button placket, 1 patch pocket, long regular sleeves, curved hem",
+  "features": [
+    " Charcoal grey Tshirt for men",
+    "Solid",
+    "Regular length",
+    "Round neck",
+    "Short, regular sleeves",
+    "Knitted cotton fabric"
+  ],
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Being_Human_3v6F9jwl2f.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Being_Human2_A1VqV6xXB9e.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Being_Human3_2vm7Gzvn_.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Being_Human4_Q7kzqYyJz.webp"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 100,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76ac"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76ad"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76ae"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76af"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76b0"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Cotton & Polyester ",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76a4"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76a5"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76a6"
+      }
+    },
+    {
+      "title": "Main Trend",
+      "value": "Typography or Slogan Print",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76a7"
+      }
+    },
+    {
+      "title": "Neck",
+      "value": "Round Neck",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76a8"
+      }
+    },
+    {
+      "title": "Collar",
+      "value": "Cutaway Collar",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76a9"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Formal",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76aa"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Plain",
+      "_id": {
+        "$oid": "62036ff7b7f0939afafd76ab"
+      }
+    }
+  ],
+  "gender": "Men"
+},{
+  "_id": {
+    "$oid": "619a8f24eb32868c7c008488"
+  },
+  "productName": "Men Navy Blue Slim Fit Low Distress Light Fade Jeans",
+  "category": 10004,
+  "offer": 1000,
+  "brand": 12,
+  "actualPrice": 1400,
+  "offeredPrice": 1299,
+  "seller": "Seller1",
+  "stock": 4000,
+  "activeStatus": true,
+  "productId": 7,
+  "__v": 0,
+  "subCategory": 502,
+  "color": "Navy Blue",
+  "description": "Dark shade, light fade navy blue jeans Slim fit, mid-rise Low distress.",
+  "features": [
+    "Low distress",
+    "Non stretchable",
+    "5 pocket",
+    "Length: cropped"
+  ],
+  "gender": "Men",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Jeans_xPtacW_UX.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Jeans2_U6RK1R1EbhYd.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Jeans3_24kWumEvi.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Jeans4_1Y9m02uPgXt.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Jeans5_OEi3c4Ob2.jpg"
+  ],
+  "sizes": [
+    {
+      "size": "28",
+      "stock": 99,
+      "measurement": "Waist Fit - 28in",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a12"
+      }
+    },
+    {
+      "size": "30",
+      "stock": 100,
+      "measurement": "Waist Fit - 30in",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a13"
+      }
+    },
+    {
+      "size": "32",
+      "stock": 100,
+      "measurement": "Waist Fit - 32in",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a14"
+      }
+    },
+    {
+      "size": "34",
+      "stock": 100,
+      "measurement": "Waist Fit - 34in",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a15"
+      }
+    },
+    {
+      "size": "36",
+      "stock": 100,
+      "measurement": "Waist Fit - 36in",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a16"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Distress",
+      "value": "Low Distress",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a0a"
+      }
+    },
+    {
+      "title": "Type of Distress",
+      "value": "Cat Scratches",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a0b"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Slim Fit",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a0c"
+      }
+    },
+    {
+      "title": "Waistband",
+      "value": "With belt loops",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a0d"
+      }
+    },
+    {
+      "title": "Shade",
+      "value": "Dark",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a0e"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Cropped",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a0f"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a10"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Plain shade",
+      "_id": {
+        "$oid": "6203b912b7f0939afafd7a11"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "619a8f37eb32868c7c00848b"
+  },
+  "productName": "Men Blue Regallo Skinny Light Fade Mid-Rise Stretchable Jeans",
+  "category": 10004,
+  "offer": 1000,
+  "brand": 14,
+  "actualPrice": 2300,
+  "offeredPrice": 1799,
+  "seller": "Seller1",
+  "stock": 2000,
+  "activeStatus": true,
+  "productId": 8,
+  "__v": 0,
+  "subCategory": 501,
+  "color": "Navy Blue",
+  "description": "Dark shade, light fade navy blue jeans Slim fit, mid-rise Low distress.",
+  "features": [
+    "Low distress",
+    "Non stretchable",
+    "Skin Fit",
+    "Length: cropped"
+  ],
+  "gender": "Men",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/USPOLOJEANS_PBPWUdxG-.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/USPOLOJEANS2_sx5aL1YMEfK.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/USPOLOJEANS3_2X1wTQmzIDg.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/USPOLOJEANS4_OSAq7qSRp.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/USPOLOJEANS5_0kitQN504.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/USPOLOJEANS6_R8RaBP15l.jpg"
+  ],
+  "sizes": [
+    {
+      "size": "28",
+      "stock": 99,
+      "measurement": "Waist Fit - 28in",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a20"
+      }
+    },
+    {
+      "size": "30",
+      "stock": 100,
+      "measurement": "Waist Fit - 30in",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a21"
+      }
+    },
+    {
+      "size": "32",
+      "stock": 100,
+      "measurement": "Waist Fit - 32in",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a22"
+      }
+    },
+    {
+      "size": "34",
+      "stock": 100,
+      "measurement": "Waist Fit - 34in",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a23"
+      }
+    },
+    {
+      "size": "36",
+      "stock": 100,
+      "measurement": "Waist Fit - 36in",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a24"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Distress",
+      "value": "Clean Look",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a18"
+      }
+    },
+    {
+      "title": "Type of Distress",
+      "value": "Cat Scratches",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a19"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Slim Fit",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a1a"
+      }
+    },
+    {
+      "title": "Waistband",
+      "value": "With belt loops",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a1b"
+      }
+    },
+    {
+      "title": "Shade",
+      "value": "Dark",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a1c"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Cropped",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a1d"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a1e"
+      }
+    },
+    {
+      "title": "Stretch",
+      "value": "Stretchable",
+      "_id": {
+        "$oid": "6203bb9ab7f0939afafd7a1f"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "619a8fc6eb32868c7c00848e"
+  },
+  "productName": "U S Polo Assn Denim Co Men White & Blue Striped",
+  "category": 10003,
+  "offer": 1000,
+  "brand": 14,
+  "actualPrice": 1800,
+  "offeredPrice": 1400,
+  "seller": "Seller1",
+  "stock": 2000,
+  "activeStatus": true,
+  "productId": 9,
+  "__v": 0,
+  "subCategory": 502,
+  "description": "Blue and white tartan checked opaque Casual shirt ,has a button-down collar, button placket, 1 patch pocket, long regular sleeves, curved hem",
+  "features": [
+    " Charcoal grey Tshirt for men",
+    "Solid",
+    "Regular length",
+    "Round neck",
+    "Short, regular sleeves",
+    "Knitted cotton fabric"
+  ],
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/US_POLO1_U7Mlsfod0.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/US_POLO4_ns4H0n_VU.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/US_POLO_mHg1f0P3z.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/US_POLO2_Bx19G7GnP.webp"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 100,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76cd"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76ce"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76cf"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76d0"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76d1"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Cotton & Polyester ",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76c6"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76c7"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76c8"
+      }
+    },
+    {
+      "title": "Main Trend",
+      "value": "Multi or Variegated Stripes",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76c9"
+      }
+    },
+    {
+      "title": "Neck",
+      "value": "Polo Collar",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76ca"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Formal",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76cb"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Plain",
+      "_id": {
+        "$oid": "620371c9b7f0939afafd76cc"
+      }
+    }
+  ],
+  "gender": "Men"
+},{
+  "_id": {
+    "$oid": "619a8fd4eb32868c7c008491"
+  },
+  "productName": "Women Black Hooded RTG Full-Zip Cotton Sweatshirt",
+  "category": 10006,
+  "offer": 1000,
+  "brand": 2,
+  "actualPrice": 4000,
+  "offeredPrice": 1500,
+  "seller": "Seller1",
+  "stock": 2000,
+  "activeStatus": true,
+  "productId": 10,
+  "__v": 0,
+  "subCategory": 506,
+  "color": "Black",
+  "description": "Black solid sweatshirt has a hooded, long sleeves, zip closure, ribbed hem",
+  "features": [
+    " Charcoal grey Tshirt for men",
+    "Solid",
+    "Regular length",
+    "Round neck",
+    "Short, regular sleeves",
+    "Knitted cotton fabric"
+  ],
+  "gender": "Women",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/sweatShirt_uIWozuavmiw.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/sweatShirt2_qo-BcW0ij.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/sweatShirt3_403y2ghaMdg.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/sweatShirt4_OAcsHMTWX.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/sweatShirt5_EjmESOvoI.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/sweatShirt6_JxewfDIJT.webp"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 100,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76e4"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76e5"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76e6"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76e7"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76e8"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Cotton ",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76dd"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76de"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76df"
+      }
+    },
+    {
+      "title": "Main Trend",
+      "value": "Front Zip",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76e0"
+      }
+    },
+    {
+      "title": "Neck",
+      "value": "Polo Collar",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76e1"
+      }
+    },
+    {
+      "title": "Hood",
+      "value": "Hooded",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76e2"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Solid",
+      "_id": {
+        "$oid": "620375d1b7f0939afafd76e3"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "619a8fdeeb32868c7c008494"
+  },
+  "productName": "Men Charcoal Grey Slim Fit Formal Shirt",
+  "category": 10002,
+  "offer": 1000,
+  "brand": 16,
+  "actualPrice": 1600,
+  "offeredPrice": 1400,
+  "seller": "Seller1",
+  "stock": 2000,
+  "activeStatus": true,
+  "productId": 11,
+  "__v": 0,
+  "subCategory": 505,
+  "color": "Grey",
+  "description": "Charcoal grey solid formal shirt, has a spread collar, long sleeves, button placket, and curved hem",
+  "features": [
+    "Solid",
+    "Regular length",
+    "Collar neck",
+    "Long, regular sleeves",
+    "Knitted cotton fabric"
+  ],
+  "gender": "Men",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCB_pwolyCCXL.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCB2_RhHHbdRY1.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCB3_EmNORgLc5Jv.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCB4_hDWzIfUDQ.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCB5_LhzoXsmtwDW.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCB6_b8w7c2c7w.webp"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 100,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76fb"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76fc"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76fd"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76fe"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76ff"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Cotton ",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76f4"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76f5"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76f6"
+      }
+    },
+    {
+      "title": "Hemline",
+      "value": "Curved",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76f7"
+      }
+    },
+    {
+      "title": "Neck",
+      "value": "Spread Collar",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76f8"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Formal",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76f9"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Solid",
+      "_id": {
+        "$oid": "62037b6eb7f0939afafd76fa"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61a08aca84c14bea65505124"
+  },
+  "productName": "Men Black Zoom Span 4 Road Running Shoes",
+  "category": 10000,
+  "offer": 1000,
+  "brand": 1,
+  "actualPrice": 7500,
+  "offeredPrice": 5999,
+  "seller": "Seller2",
+  "stock": 500,
+  "activeStatus": true,
+  "productId": 12,
+  "__v": 0,
+  "subCategory": 500,
+  "color": "Blue",
+  "description": "A pair of round toe, black road running shoes, has regular styling Lace-up detail",
+  "features": [
+    "Wipe with a clean, dry cloth to remove the dust",
+    "Slip-on detail",
+    "Textured and patterned outsole",
+    "Cushioned footbed"
+  ],
+  "gender": "Men",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/NikeShoes_GpgAlSvXSV.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/NikeShoes2_EICqIu8E9J1.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/NikeShoes3_K9iNYI_Sy.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/NikeShoes4_-cw_2Jwfu.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/NikeShoes5_sk8NAtb46.webp"
+  ],
+  "sizes": [
+    {
+      "size": "6",
+      "measurement": "Foot Length - 25.1cm",
+      "stock": 100,
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd7888"
+      }
+    },
+    {
+      "size": "7",
+      "measurement": "Foot Length - 25.1cm",
+      "stock": 100,
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd7889"
+      }
+    },
+    {
+      "size": "8",
+      "measurement": "Foot Length - 25.1cm",
+      "stock": 100,
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd788a"
+      }
+    },
+    {
+      "size": "9",
+      "stock": 100,
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd788b"
+      }
+    },
+    {
+      "size": "10",
+      "stock": 100,
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd788c"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Toe Shape",
+      "value": "Round Toe",
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd7880"
+      }
+    },
+    {
+      "title": "Type",
+      "value": "Sport",
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd7881"
+      }
+    },
+    {
+      "title": "Insole",
+      "value": "Running Foam",
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd7882"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd7883"
+      }
+    },
+    {
+      "title": "Ankle Height",
+      "value": "Regular",
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd7884"
+      }
+    },
+    {
+      "title": "Fastening",
+      "value": "Slip-On",
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd7885"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd7886"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Textured",
+      "_id": {
+        "$oid": "6203afd8b7f0939afafd7887"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61a08b7684c14bea65505133"
+  },
+  "productName": "Women Blue Woven Design Alpha Training Shoes",
+  "category": 10000,
+  "offer": 1000,
+  "brand": 15,
+  "actualPrice": 2200,
+  "offeredPrice": 1999,
+  "seller": "Seller2",
+  "stock": 500,
+  "activeStatus": true,
+  "productId": 13,
+  "__v": 0,
+  "subCategory": 500,
+  "color": "Blue",
+  "description": "Ideal for all types of workouts, the HRX Women's Training Shoes from the Alpha Trainer Collection are a great addition to your workout wardrobe. With a mesh upper and cushioned insole.",
+  "features": [
+    "Wipe with a clean, dry cloth to remove the dust",
+    "Slip-on detail",
+    "Designed for neutral support",
+    "Constructed with mesh to keep your feet cool and dry",
+    "Counter clutch helps maintain a strong grip at the heel while running",
+    "Phylon midsole cushions your feet and gives the shoe a longer life"
+  ],
+  "gender": "Women",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/HRXWomen_HqB0pmo4vwY.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/HRXWomen2_MbUMZO7aR.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/HRXWomen3_BVtyLUKq8.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/HRXWomen4_EoYqn5qVz.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/HRXWomen5_psORCPlz-J.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/HRXWomen6_i0D_VcAgI.jpg"
+  ],
+  "sizes": [
+    {
+      "size": "6",
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd7926"
+      }
+    },
+    {
+      "size": "7",
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd7927"
+      }
+    },
+    {
+      "size": "8",
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd7928"
+      }
+    },
+    {
+      "size": "9",
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd7929"
+      }
+    },
+    {
+      "size": "10",
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd792a"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Toe Shape",
+      "value": "Round Toe",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd791e"
+      }
+    },
+    {
+      "title": "Type",
+      "value": "Training or Gym",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd791f"
+      }
+    },
+    {
+      "title": "Insole",
+      "value": "Running Foam",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd7920"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd7921"
+      }
+    },
+    {
+      "title": "Ankle Height",
+      "value": "Regular",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd7922"
+      }
+    },
+    {
+      "title": "Fastening",
+      "value": "Lace-Ups",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd7923"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd7924"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Cushion",
+      "_id": {
+        "$oid": "6203b3afb7f0939afafd7925"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61a08bdc84c14bea65505136"
+  },
+  "productName": "Men Grey Textured Loafers",
+  "category": 10000,
+  "offer": 1000,
+  "brand": 14,
+  "actualPrice": 3000,
+  "offeredPrice": 1999,
+  "seller": "Seller2",
+  "stock": 500,
+  "activeStatus": true,
+  "productId": 14,
+  "__v": 0,
+  "subCategory": 502,
+  "color": "Grey",
+  "description": "A pair of round toe grey loafers ,has regular styling,",
+  "features": [
+    "Wipe with a clean, dry cloth to remove the dust",
+    "Slip-on detail",
+    "Textured and patterned outsole",
+    "Cushioned footbed"
+  ],
+  "gender": "Men",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UsPoloShoe_-OZPPbRHFQr.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UsPoloShoe2_kjendJAn8.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UsPoloShoe3_GNHqEwlAr.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UsPoloShoe4_2aJ5Mt0-R.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UsPoloShoe5_Xk9vB6hCFQF.jpg"
+  ],
+  "sizes": [
+    {
+      "size": "6",
+      "stock": 100,
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77d6"
+      }
+    },
+    {
+      "size": "7",
+      "stock": 100,
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77d7"
+      }
+    },
+    {
+      "size": "8",
+      "measurement": "Foot Length - 25.1cm",
+      "stock": 100,
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77d8"
+      }
+    },
+    {
+      "size": "9",
+      "measurement": "Foot Length - 25.1cm",
+      "stock": 100,
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77d9"
+      }
+    },
+    {
+      "size": "10",
+      "stock": 100,
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77da"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Toe Shape",
+      "value": "Round Toe",
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77cf"
+      }
+    },
+    {
+      "title": "Insole",
+      "value": "Comfort Insole",
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77d0"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77d1"
+      }
+    },
+    {
+      "title": "Ankle Height",
+      "value": "Regular",
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77d2"
+      }
+    },
+    {
+      "title": "Fastening",
+      "value": "Slip-On",
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77d3"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77d4"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Textured",
+      "_id": {
+        "$oid": "62039ce7b7f0939afafd77d5"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61a08c0984c14bea65505139"
+  },
+  "productName": "Pink Pure Cotton Printed T-shirt Nightdress",
+  "category": 10005,
+  "offer": 1000,
+  "brand": 8,
+  "actualPrice": 1000,
+  "offeredPrice": 799,
+  "seller": "Seller2",
+  "stock": 500,
+  "activeStatus": true,
+  "productId": 15,
+  "__v": 0,
+  "subCategory": 503,
+  "color": "Pink",
+  "description": "Gift yourself a relaxing sleep by slipping into this super-soft nightdress. Whether you wear it to bed or lounge around in it at home, this nightwear will provide you maximised comfort..",
+  "features": [
+    "Round neck",
+    "Short sleeves",
+    "Knee length",
+    "2 pockets"
+  ],
+  "gender": "Women",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Nightwear_xw9rp8As7.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Nightwear2_V1gatAC8W.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Nightwear3_aFYfrKCqLP1.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Nightwear4_WpcM1ih79e.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Nightwear5_yqAjzW9_NqFx.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Nightwear6_XhVcZqHCA.jpg"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 100,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a4b"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a4c"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a4d"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a4e"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a4f"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Neck",
+      "value": "Round Neck",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a43"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Printted",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a44"
+      }
+    },
+    {
+      "title": "Fabric",
+      "value": "Pure Cotton",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a45"
+      }
+    },
+    {
+      "title": "Sleeve",
+      "value": "Short Sleeve",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a46"
+      }
+    },
+    {
+      "title": "Shade",
+      "value": "Neutral",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a47"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "One-fourth",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a48"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Nightwear",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a49"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular",
+      "_id": {
+        "$oid": "6203c46eb7f0939afafd7a4a"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61a08cfa84c14bea6550513c"
+  },
+  "productName": "Women Black Brand Logo Embellished Pure Cotton T-shirt",
+  "category": 10003,
+  "offer": 1000,
+  "brand": 16,
+  "actualPrice": 1200,
+  "offeredPrice": 799,
+  "seller": "Seller2",
+  "stock": 500,
+  "activeStatus": true,
+  "productId": 16,
+  "__v": 0,
+  "subCategory": 502,
+  "color": "Black",
+  "description": "Black Tshirt for women solid Brand logo embellished Regular length Round neck",
+  "features": [
+    "Solid",
+    "Regular length",
+    "Round neck",
+    "Three-quarter, regular sleeves",
+    "Knitted cotton fabric"
+  ],
+  "gender": "Women",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCBWomen1_uPB3TLv1B.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCBWomen2_U91iHdagJ.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCBWomen3__xbZyRB2y.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCBWomen4_Q2uZyRZikQE.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/UCBWomen5_bI0la6KZs.webp"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 100,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd7732"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd7733"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd7734"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd7735"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd7736"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Pure Cotton ",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd772b"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd772c"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd772d"
+      }
+    },
+    {
+      "title": "Main-Trend",
+      "value": "Typography or Slogan Print",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd772e"
+      }
+    },
+    {
+      "title": "Neck",
+      "value": "Scoop  Neck",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd772f"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd7730"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Solid",
+      "_id": {
+        "$oid": "62037f76b7f0939afafd7731"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61a08d6784c14bea6550513f"
+  },
+  "productName": "Women Blue Skinny Fit Slash Knee Heavy Fade Jeans",
+  "category": 10004,
+  "offer": 1000,
+  "brand": 10,
+  "actualPrice": 2300,
+  "offeredPrice": 1799,
+  "seller": "Seller2",
+  "stock": 500,
+  "activeStatus": true,
+  "productId": 17,
+  "__v": 0,
+  "subCategory": 501,
+  "color": "Blue",
+  "description": "Dark shade, light fade navy blue jeans Slim fit, mid-rise Low distress.",
+  "features": [
+    "Low distress",
+    "Non stretchable",
+    "Skin Fit",
+    "Length: cropped"
+  ],
+  "gender": "Women",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/WomenJeans_AaSTVubAT.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/WomenJeans2_K8y6tiBv1yC.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/WomenJeans3_McfR08pAM.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/WomenJeans4_495hlO69E.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/WomenJeans5_4WnVqGk4eHp.webp"
+  ],
+  "sizes": [
+    {
+      "size": "28",
+      "stock": 100,
+      "measurement": "Waist Fit - 28in",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a3c"
+      }
+    },
+    {
+      "size": "30",
+      "stock": 100,
+      "measurement": "Waist Fit - 30in",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a3d"
+      }
+    },
+    {
+      "size": "32",
+      "stock": 100,
+      "measurement": "Waist Fit - 32in",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a3e"
+      }
+    },
+    {
+      "size": "34",
+      "stock": 100,
+      "measurement": "Waist Fit - 34in",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a3f"
+      }
+    },
+    {
+      "size": "36",
+      "stock": 100,
+      "measurement": "Waist Fit - 36in",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a40"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Distress",
+      "value": "Slash Knee",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a34"
+      }
+    },
+    {
+      "title": "Type of Distress",
+      "value": "Cat Scratches",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a35"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Slim Fit",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a36"
+      }
+    },
+    {
+      "title": "Waistband",
+      "value": "With belt loops",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a37"
+      }
+    },
+    {
+      "title": "Shade",
+      "value": "Heavy Fade",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a38"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Cropped",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a39"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a3a"
+      }
+    },
+    {
+      "title": "Stretch",
+      "value": "Stretchable",
+      "_id": {
+        "$oid": "6203bdd6b7f0939afafd7a3b"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61a08d7c84c14bea65505142"
+  },
+  "productName": "Men Blue & White Slim Fit Checked Casual Shirt",
+  "category": 10002,
+  "offer": 1000,
+  "brand": 17,
+  "actualPrice": 3099,
+  "offeredPrice": 2899,
+  "seller": "Seller2",
+  "stock": 500,
+  "activeStatus": true,
+  "productId": 18,
+  "__v": 0,
+  "subCategory": 502,
+  "color": "Green",
+  "description": "Blue & White checked opaque Casual shirt ,has a spread collar, button placket, 1 patch pocket, long regular sleeves, curved hem",
+  "features": [
+    "Solid",
+    "Regular length",
+    "Spread Collar neck",
+    "Long sleeves",
+    "Pure cotton fabric"
+  ],
+  "gender": "Men",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Levis_eqW-JQfj8Tq.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Levis2_mguakjVva.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Levis3_UMpV79VzI.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Levis4__XJNb2spvHM.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Levis5_yjPt3Bqn8.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Levis6_jjjW5RVrbN.webp"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 100,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "620382edb7f0939afafd7741"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "620382edb7f0939afafd7742"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "620382edb7f0939afafd7743"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "620382edb7f0939afafd7744"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "620382edb7f0939afafd7745"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Pure Cotton ",
+      "_id": {
+        "$oid": "620382edb7f0939afafd773a"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "620382edb7f0939afafd773b"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "620382edb7f0939afafd773c"
+      }
+    },
+    {
+      "title": "Main-Trend",
+      "value": "Checks",
+      "_id": {
+        "$oid": "620382edb7f0939afafd773d"
+      }
+    },
+    {
+      "title": "Neck",
+      "value": "Spread  Neck",
+      "_id": {
+        "$oid": "620382edb7f0939afafd773e"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "620382edb7f0939afafd773f"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Other Checks",
+      "_id": {
+        "$oid": "620382edb7f0939afafd7740"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61a0966784c14bea65505145"
+  },
+  "productName": "Men Olive Green & Black Colourblocked Sweatshirt",
+  "category": 10006,
+  "offer": 1000,
+  "brand": 17,
+  "actualPrice": 2300,
+  "offeredPrice": 1399,
+  "seller": "Seller2",
+  "stock": 500,
+  "activeStatus": true,
+  "productId": 19,
+  "__v": 0,
+  "subCategory": 507,
+  "color": "Olive Green",
+  "description": "Olive green & Black colourblocked sweatshirt, has a round neck, long sleeves, ribbed hem",
+  "features": [
+    "Solid",
+    "Regular length",
+    "RIB: 97% Cotton & 3% Elastane",
+    "Long sleeves",
+    "Cotton fabric"
+  ],
+  "gender": "Men",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/LevisSweatshirt_Sgq5v9059.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/LevisSweatshirt2_0pB0Me96P.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/LevisSweatshirt3_1uZVd5ztk_.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/LevisSweatshirt4_8JHUhyUJ7b.jpg",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/LevisSweatshirt5_jgUHdn661Fj.webp"
+  ],
+  "sizes": [
+    {
+      "size": "S",
+      "stock": 100,
+      "measurement": "Chest - 37.0in",
+      "_id": {
+        "$oid": "62039127b7f0939afafd777a"
+      }
+    },
+    {
+      "size": "M",
+      "stock": 100,
+      "measurement": "Chest - 39.0in",
+      "_id": {
+        "$oid": "62039127b7f0939afafd777b"
+      }
+    },
+    {
+      "size": "L",
+      "stock": 100,
+      "measurement": "Chest - 41.0in",
+      "_id": {
+        "$oid": "62039127b7f0939afafd777c"
+      }
+    },
+    {
+      "size": "XL",
+      "stock": 100,
+      "measurement": "Chest - 43.0in",
+      "_id": {
+        "$oid": "62039127b7f0939afafd777d"
+      }
+    },
+    {
+      "size": "XXL",
+      "stock": 100,
+      "measurement": "Chest - 45.5in",
+      "_id": {
+        "$oid": "62039127b7f0939afafd777e"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "value": "Polyster& Cotton ",
+      "_id": {
+        "$oid": "62039127b7f0939afafd7773"
+      }
+    },
+    {
+      "title": "Fit",
+      "value": "Regular Fit",
+      "_id": {
+        "$oid": "62039127b7f0939afafd7774"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "62039127b7f0939afafd7775"
+      }
+    },
+    {
+      "title": "Main-Trend",
+      "value": "Pullover",
+      "_id": {
+        "$oid": "62039127b7f0939afafd7776"
+      }
+    },
+    {
+      "title": "Neck",
+      "value": "Round  Neck",
+      "_id": {
+        "$oid": "62039127b7f0939afafd7777"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "62039127b7f0939afafd7778"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Colourblocked",
+      "_id": {
+        "$oid": "62039127b7f0939afafd7779"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6203c8f97f6d6e089dc4c3c3"
+  },
+  "productName": "Men Black Sneakers",
+  "category": 10000,
+  "offer": 1000,
+  "brand": 2,
+  "actualPrice": 3500,
+  "offeredPrice": 2499,
+  "seller": "Seller1",
+  "stock": 981,
+  "activeStatus": true,
+  "productId": 22,
+  "__v": 0,
+  "subCategory": 503,
+  "color": "Black",
+  "description": "A pair of round-toe black sneakers, has regular styling, lace-up detail Leather upper",
+  "features": [
+    "Wipe with a clean, dry cloth to remove the dust",
+    "Slip-on detail",
+    "Textured and patterned outsole",
+    "Cushioned footbed"
+  ],
+  "gender": "Men",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/PumaShoes_rw0CecvPn.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/PumaShoes2_28cGdNkHW.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/PumaShoes3_TSS1M67dU.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/PumaShoes4_kwKJw6OyrQV.jpg"
+  ],
+  "sizes": [
+    {
+      "size": "6",
+      "measurement": "Foot Length - 25.1cm",
+      "stock": 100,
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd7801"
+      }
+    },
+    {
+      "size": "7",
+      "stock": 100,
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd7802"
+      }
+    },
+    {
+      "size": "8",
+      "stock": 100,
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd7803"
+      }
+    },
+    {
+      "size": "9",
+      "measurement": "Foot Length - 25.1cm",
+      "stock": 100,
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd7804"
+      }
+    },
+    {
+      "size": "10",
+      "stock": 100,
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd7805"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Toe Shape",
+      "value": "Round Toe",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd77f9"
+      }
+    },
+    {
+      "title": "Type",
+      "value": "Sneaker",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd77fa"
+      }
+    },
+    {
+      "title": "Insole",
+      "value": "Comfort Insole",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd77fb"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd77fc"
+      }
+    },
+    {
+      "title": "Ankle Height",
+      "value": "Regular",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd77fd"
+      }
+    },
+    {
+      "title": "Fastening",
+      "value": "Slip-On",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd77fe"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd77ff"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Solid",
+      "_id": {
+        "$oid": "6203a03fb7f0939afafd7800"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6203c9357f6d6e089dc4c3c5"
+  },
+  "productName": "Men Navy Blue SOLAR FUSE - MOTION SENSOR Sneakers",
+  "category": 10000,
+  "offer": 1000,
+  "brand": 18,
+  "actualPrice": 5500,
+  "offeredPrice": 4999,
+  "seller": "Seller1",
+  "stock": 397,
+  "activeStatus": true,
+  "productId": 23,
+  "__v": 0,
+  "subCategory": 502,
+  "color": "Blue",
+  "description": "A pair of round-toe black sneakers, has regular styling, lace-up detail Leather upper",
+  "features": [
+    "Wipe with a clean, dry cloth to remove the dust",
+    "Slip-on detail",
+    "Textured and patterned outsole",
+    "Cushioned footbed"
+  ],
+  "gender": "Men",
+  "img": [
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Skechers_5BpTpnB1et8K.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Skechers2_XWKYkKwO2.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Skechers3_pitfmiAqh0i.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Skechers4_VJiaVqtqNP.webp",
+    "https://ik.imagekit.io/2e5xfxvehcg/Myntra/Assets/products/Skechers5_BumwLJ2bu.webp"
+  ],
+  "sizes": [
+    {
+      "size": "6",
+      "measurement": "Foot Length - 25.1cm",
+      "stock": 100,
+      "_id": {
+        "$oid": "6203a688b7f0939afafd786a"
+      }
+    },
+    {
+      "size": "7",
+      "measurement": "Foot Length - 25.1cm",
+      "stock": 100,
+      "_id": {
+        "$oid": "6203a688b7f0939afafd786b"
+      }
+    },
+    {
+      "size": "8",
+      "stock": 100,
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203a688b7f0939afafd786c"
+      }
+    },
+    {
+      "size": "9",
+      "measurement": "Foot Length - 25.1cm",
+      "stock": 100,
+      "_id": {
+        "$oid": "6203a688b7f0939afafd786d"
+      }
+    },
+    {
+      "size": "10",
+      "stock": 100,
+      "measurement": "Foot Length - 25.1cm",
+      "_id": {
+        "$oid": "6203a688b7f0939afafd786e"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Toe Shape",
+      "value": "Round Toe",
+      "_id": {
+        "$oid": "6203a688b7f0939afafd7862"
+      }
+    },
+    {
+      "title": "Type",
+      "value": "Sneaker",
+      "_id": {
+        "$oid": "6203a688b7f0939afafd7863"
+      }
+    },
+    {
+      "title": "Insole",
+      "value": "Memory Foam",
+      "_id": {
+        "$oid": "6203a688b7f0939afafd7864"
+      }
+    },
+    {
+      "title": "Length",
+      "value": "Regular",
+      "_id": {
+        "$oid": "6203a688b7f0939afafd7865"
+      }
+    },
+    {
+      "title": "Ankle Height",
+      "value": "Regular",
+      "_id": {
+        "$oid": "6203a688b7f0939afafd7866"
+      }
+    },
+    {
+      "title": "Fastening",
+      "value": "Slip-On",
+      "_id": {
+        "$oid": "6203a688b7f0939afafd7867"
+      }
+    },
+    {
+      "title": "Occasion",
+      "value": "Casual",
+      "_id": {
+        "$oid": "6203a688b7f0939afafd7868"
+      }
+    },
+    {
+      "title": "Pattern",
+      "value": "Textured",
+      "_id": {
+        "$oid": "6203a688b7f0939afafd7869"
+      }
+    }
+  ]
+}]

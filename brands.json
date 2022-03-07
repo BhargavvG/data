@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "619a7293f66e55ad578389f0"
+  },
+  "brandName": "Nike",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a881a63a9aae977861a47"
+  },
+  "brandName": "Puma",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a882663a9aae977861a4a"
+  },
+  "brandName": "Tommy Hilfiger",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a883163a9aae977861a4d"
+  },
+  "brandName": "Adidas",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a883963a9aae977861a50"
+  },
+  "brandName": "Gap",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a884863a9aae977861a53"
+  },
+  "brandName": "Louis Vuitton",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a885c63a9aae977861a56"
+  },
+  "brandName": "Armani",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a886e63a9aae977861a59"
+  },
+  "brandName": "Sweet Dreams",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a889463a9aae977861a5c"
+  },
+  "brandName": "Being Human",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a889f63a9aae977861a5f"
+  },
+  "brandName": "Vero Moda",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a88a963a9aae977861a62"
+  },
+  "brandName": "Allen Solly",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a88b463a9aae977861a65"
+  },
+  "brandName": "Peter England",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a893d63a9aae977861a68"
+  },
+  "brandName": "Jack n Jones",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 13,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a894b63a9aae977861a6b"
+  },
+  "brandName": "US Polo Assn",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a895363a9aae977861a6e"
+  },
+  "brandName": "HRX by Hritik Roshan",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a896963a9aae977861a71"
+  },
+  "brandName": "United Colors Of Benetton",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 16,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a898563a9aae977861a74"
+  },
+  "brandName": "Levi's",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 17,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a898e63a9aae977861a77"
+  },
+  "brandName": "Skechers",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 18,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6209217db728a85ab106b072"
+  },
+  "brandName": "Moda Rapido",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 19,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620cbf66bd71dc09530112ba"
+  },
+  "brandName": "Wrogn",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214d5056577a854734954fa"
+  },
+  "brandName": "BrandEdit",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214d68d163aeb1599b2d7bb"
+  },
+  "brandName": "Brand",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 22,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214d6daa0b0ad09da6729b2"
+  },
+  "brandName": "Brand",
+  "details": [],
+  "activeStatus": true,
+  "brandId": 23,
+  "__v": 0
+}]

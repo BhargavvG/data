@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "61962e9ec95b4eaa5a618ac0"
+  },
+  "model": "products",
+  "field": "productId",
+  "count": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6197ac0465faa67976eeae63"
+  },
+  "model": "categories",
+  "field": "categoryId",
+  "count": 10007,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6197ac0465faa67976eeae67"
+  },
+  "model": "offers",
+  "field": "offerId",
+  "count": 1004,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6197c15920c4ae1fb573580f"
+  },
+  "model": "elements",
+  "field": "elementId",
+  "count": 114,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619922e26a5fa3dd12eba4a2"
+  },
+  "model": "brands",
+  "field": "brandId",
+  "count": 23,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619c80ab8cebd51b581edde7"
+  },
+  "model": "carts",
+  "field": "cartId",
+  "count": 111011,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619c80ab8cebd51b581edde9"
+  },
+  "model": "orders",
+  "field": "orderId",
+  "count": 100110161,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619d306a3105ace62ff06c31"
+  },
+  "model": "receiveOrders",
+  "field": "receiveOrderId",
+  "count": 10066,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c412582bf7427288553d20"
+  },
+  "model": "subCategories",
+  "field": "subCategoryId",
+  "count": 508,
+  "__v": 0
+}]

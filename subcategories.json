@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "61c416bb04a0e6684ba031b8"
+  },
+  "subCategoryName": "Sports",
+  "activeStatus": true,
+  "subCategoryId": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c416c404a0e6684ba031bb"
+  },
+  "subCategoryName": "Denim",
+  "activeStatus": true,
+  "subCategoryId": 501,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c416ca04a0e6684ba031be"
+  },
+  "subCategoryName": "Casual",
+  "activeStatus": true,
+  "subCategoryId": 502,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c416d804a0e6684ba031c1"
+  },
+  "subCategoryName": "Regular",
+  "activeStatus": true,
+  "subCategoryId": 503,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c416e204a0e6684ba031c4"
+  },
+  "subCategoryName": "Slim-Fit",
+  "activeStatus": true,
+  "subCategoryId": 504,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c416f004a0e6684ba031c7"
+  },
+  "subCategoryName": "Formal",
+  "activeStatus": true,
+  "subCategoryId": 505,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c417af04a0e6684ba031ca"
+  },
+  "subCategoryName": "Winter-wear",
+  "activeStatus": true,
+  "subCategoryId": 506,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c417bc04a0e6684ba031cd"
+  },
+  "subCategoryName": "Fabric",
+  "activeStatus": true,
+  "subCategoryId": 507,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620930a0b728a85ab106b0ad"
+  },
+  "subCategoryName": "Designer",
+  "activeStatus": true,
+  "subCategoryId": 508,
+  "__v": 0
+}]

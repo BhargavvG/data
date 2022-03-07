@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "619aa4ae00f145f8305e8be4"
+  },
+  "userName": "Seller1",
+  "email": "abc@gmail.com",
+  "contactNumber": 9999988888,
+  "dob": {
+    "$date": "1999-12-08T18:30:00Z"
+  },
+  "gender": "MALE",
+  "password": "$2b$10$/iFBJDuVlEHFezhQvaTZ0ecBP0ygP.I/I//KEz01tVVvN9tTdR.xi",
+  "role": "seller",
+  "address": {
+    "addressLine1": "Rajkot",
+    "pincode": 360001,
+    "city": "Rajkot",
+    "state": "Gujrat",
+    "country": "India",
+    "_id": {
+      "$oid": "619aa4ae00f145f8305e8be5"
+    }
+  },
+  "activeStatus": true,
+  "__v": 0,
+  "displayName": "Sidhant keshwani Fashion Enterprise"
+},{
+  "_id": {
+    "$oid": "619aa4f100f145f8305e8bea"
+  },
+  "userName": "bhargav",
+  "email": "bhargav.bg.912@gmail.com",
+  "contactNumber": 9999988888,
+  "dob": {
+    "$date": "1999-12-08T18:30:00Z"
+  },
+  "gender": "MALE",
+  "password": "$2b$10$KFSi03aKULCb0By/vXCrp.KnNyaW4S98K9bBKhvbshq5VggsaTRfq",
+  "role": "admin",
+  "address": {
+    "addressLine1": "Rajkot",
+    "pincode": 360001,
+    "city": "Rajkot",
+    "state": "Gujrat",
+    "country": "India",
+    "_id": {
+      "$oid": "619aa4f100f145f8305e8beb"
+    }
+  },
+  "activeStatus": true,
+  "__v": 0,
+  "displayName": "Myntra Admin"
+},{
+  "_id": {
+    "$oid": "619c8b22b4dd62c52a7f6286"
+  },
+  "userName": "bhargavUser",
+  "email": "user@gmail.com",
+  "contactNumber": 9999988888,
+  "dob": {
+    "$date": "1999-12-08T18:30:00Z"
+  },
+  "gender": "MALE",
+  "password": "$2b$10$N2ZA4SQ5jEfYzZCgOStEm.Yz8EQbvkjuJ9VKW4hVoRUykK8E0i3qq",
+  "role": "user",
+  "address": {
+    "addressLine1": "Rajkot",
+    "pincode": 360001,
+    "city": "Rajkot",
+    "state": "Gujrat",
+    "country": "India",
+    "_id": {
+      "$oid": "619c8b22b4dd62c52a7f6287"
+    }
+  },
+  "activeStatus": true,
+  "__v": 0,
+  "addresses": [
+    {
+      "name": "Bhargav Gangadharani",
+      "phone": 8758077654,
+      "address": "101, Royal-1, Dr Yagnik road",
+      "pincode": 360001,
+      "town": "Rajkot",
+      "city": "Rajkot",
+      "state": "Gujrat",
+      "_id": {
+        "$oid": "6202bb46a2937f730f7f938d"
+      }
+    },
+    {
+      "name": "Bhargav Gangadharani",
+      "phone": 8758077654,
+      "address": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia metus. Aenean justo leo, facilisis eget facilisis no",
+      "pincode": 360001,
+      "town": "Rajkot",
+      "city": "Rajkot",
+      "state": "Gujrat",
+      "_id": {
+        "$oid": "6202bb46a2937f730f7f938e"
+      }
+    },
+    {
+      "name": "David Hawkins",
+      "phone": 4989898989,
+      "address": "Lorem ipsum dolor sit amet, consectetur Totam voluptatum ill",
+      "pincode": 382481,
+      "town": "Incidunt commodo do",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "_id": {
+        "$oid": "6207631cb232a7ec4c08e846"
+      }
+    }
+  ],
+  "displayName": "Bhargav Gangadharani"
+},{
+  "_id": {
+    "$oid": "61a08047d172830971afa4b9"
+  },
+  "userName": "User1",
+  "email": "user1@gmail.com",
+  "contactNumber": 9999988888,
+  "dob": {
+    "$date": "1999-12-08T18:30:00Z"
+  },
+  "gender": "MALE",
+  "password": "$2b$10$70fu2NlUlkQeZaX.o4zEs.93w4jkQJs2pf5NIXx1YVexn9y7t/D6y",
+  "role": "user",
+  "address": {
+    "addressLine1": "Rajkot",
+    "pincode": 360001,
+    "city": "Rajkot",
+    "state": "Gujrat",
+    "country": "India",
+    "_id": {
+      "$oid": "61a08047d172830971afa4ba"
+    }
+  },
+  "activeStatus": true,
+  "__v": 0,
+  "displayName": "John Doe"
+},{
+  "_id": {
+    "$oid": "61a0804dd172830971afa4bc"
+  },
+  "userName": "User2",
+  "email": "user2@gmail.com",
+  "contactNumber": 9999988888,
+  "dob": {
+    "$date": "1999-12-08T18:30:00Z"
+  },
+  "gender": "MALE",
+  "password": "$2b$10$pkS/cb7jFHaDEgG5dtJcze4eLZIcqnamVqB5kPKEFzkfauCnp5Y/e",
+  "role": "user",
+  "address": {
+    "addressLine1": "Rajkot",
+    "pincode": 360001,
+    "city": "Rajkot",
+    "state": "Gujrat",
+    "country": "India",
+    "_id": {
+      "$oid": "61a0804dd172830971afa4bd"
+    }
+  },
+  "activeStatus": true,
+  "__v": 0,
+  "displayName": "Demo User"
+},{
+  "_id": {
+    "$oid": "61a08052d172830971afa4bf"
+  },
+  "userName": "User3",
+  "email": "user3@gmail.com",
+  "contactNumber": 9999988888,
+  "dob": {
+    "$date": "1999-12-08T18:30:00Z"
+  },
+  "gender": "MALE",
+  "password": "$2b$10$uN0iH80e.5fAQqmiGFAgf.mpT2TfEbBt7njC4hJ2fW4eL8GPoDrtS",
+  "role": "user",
+  "address": {
+    "addressLine1": "Rajkot",
+    "pincode": 360001,
+    "city": "Rajkot",
+    "state": "Gujrat",
+    "country": "India",
+    "_id": {
+      "$oid": "61a08052d172830971afa4c0"
+    }
+  },
+  "activeStatus": true,
+  "__v": 0,
+  "displayName": "Demo User3"
+},{
+  "_id": {
+    "$oid": "61a0807fd172830971afa4c2"
+  },
+  "userName": "Seller2",
+  "email": "seller@gmail.com",
+  "contactNumber": 9999988888,
+  "dob": {
+    "$date": "1999-12-08T18:30:00Z"
+  },
+  "gender": "MALE",
+  "password": "$2b$10$Prb4iXzrZgMs1L7CDJKeKu9QGYHelsyN9llaFyIBpMsqgSGFJe7/6",
+  "role": "seller",
+  "address": {
+    "addressLine1": "Rajkot",
+    "pincode": 360001,
+    "city": "Rajkot",
+    "state": "Gujrat",
+    "country": "India",
+    "_id": {
+      "$oid": "61a0807fd172830971afa4c3"
+    }
+  },
+  "activeStatus": true,
+  "__v": 0,
+  "displayName": "RetailNet Enterprise"
+},{
+  "_id": {
+    "$oid": "61a08086d172830971afa4c5"
+  },
+  "userName": "Seller3",
+  "email": "seller@gmail.com",
+  "contactNumber": 9999988888,
+  "dob": {
+    "$date": "1999-12-08T18:30:00Z"
+  },
+  "gender": "MALE",
+  "password": "$2b$10$vbPTcu8Qs1KaFj8Q8PkBleOOsNIVEZDlq/.qlfSPzj/4LJEWae9Yi",
+  "role": "seller",
+  "address": {
+    "addressLine1": "Rajkot",
+    "pincode": 360001,
+    "city": "Rajkot",
+    "state": "Gujrat",
+    "country": "India",
+    "_id": {
+      "$oid": "61a08086d172830971afa4c6"
+    }
+  },
+  "activeStatus": true,
+  "__v": 0,
+  "displayName": "United India Comforts Ltd."
+},{
+  "_id": {
+    "$oid": "61a0808bd172830971afa4c8"
+  },
+  "userName": "Seller4",
+  "email": "seller@gmail.com",
+  "contactNumber": 9999988888,
+  "dob": {
+    "$date": "1999-12-08T18:30:00Z"
+  },
+  "gender": "MALE",
+  "password": "$2b$10$pJhNLq.4qSEolNYrvQkc8O5wdtDcY0vV7II1khSAhf/gFHmHJ5WJG",
+  "role": "seller",
+  "address": {
+    "addressLine1": "Rajkot",
+    "pincode": 360001,
+    "city": "Rajkot",
+    "state": "Gujrat",
+    "country": "India",
+    "_id": {
+      "$oid": "61a0808bd172830971afa4c9"
+    }
+  },
+  "activeStatus": true,
+  "__v": 0,
+  "displayName": "FlashStar Commerce"
+},{
+  "_id": {
+    "$oid": "61f986801cf18a1971be826a"
+  },
+  "userName": "bhargavUser2",
+  "displayName": "Demo User",
+  "email": "demo@gmail.com",
+  "contactNumber": 8888999989,
+  "dob": {
+    "$date": "1999-02-01T00:00:00Z"
+  },
+  "gender": "MALE",
+  "password": "$2b$10$io6MUuNzcxp/w1DmqpSZ2.AliATHs2/P3gp8t6WZUEfatwDHYQKku",
+  "role": "user",
+  "activeStatus": true,
+  "addresses": [],
+  "__v": 0
+}]

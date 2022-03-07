@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "6197d41485fc2d8918627469"
+  },
+  "offerName": "Diwali Offer",
+  "details": [],
+  "activeStatus": true,
+  "__v": 0,
+  "offerId": 1000
+},{
+  "_id": {
+    "$oid": "6197d45fbc4c268b90fc51c9"
+  },
+  "offerName": "Navratri Offer",
+  "details": [],
+  "activeStatus": true,
+  "offerId": 1001,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6197d69fc9a6f0b45c6a6917"
+  },
+  "offerName": "November Offer",
+  "details": [],
+  "activeStatus": true,
+  "offerId": 1002,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6197d6a1c9a6f0b45c6a691a"
+  },
+  "offerName": "End of the year Offer",
+  "details": [],
+  "activeStatus": true,
+  "offerId": 1003,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62092b0db728a85ab106b090"
+  },
+  "offerName": "Big Billion Days",
+  "details": [],
+  "activeStatus": true,
+  "offerId": 1004,
+  "__v": 0
+}]
